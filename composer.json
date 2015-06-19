@@ -1,8 +1,8 @@
 {
-    "name": "rtens/mockster",
+    "name": "rtens/mockster3",
     "description": "PHP Mocking framework",
     "keywords": ["mocking", "mock", "unit testing", "bdd"],
-    "homepage": "http://github.com/rtens/mockster",
+    "homepage": "http://github.com/rtens/mockster3",
     "type": "library",
     "license": "MIT",
     "authors": [
