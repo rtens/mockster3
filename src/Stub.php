@@ -1,9 +1,9 @@
 <?php
-namespace rtens\mockster;
+namespace rtens\mockster3;
 
-use rtens\mockster\arguments\Argument;
-use rtens\mockster\behaviour\Behaviour;
-use rtens\mockster\behaviour\BehaviourFactory;
+use rtens\mockster3\arguments\Argument;
+use rtens\mockster3\behaviour\Behaviour;
+use rtens\mockster3\behaviour\BehaviourFactory;
 use watoki\factory\Factory;
 use watoki\reflect\type\UnknownType;
 

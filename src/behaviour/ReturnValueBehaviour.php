@@ -1,5 +1,5 @@
 <?php
-namespace rtens\mockster\behaviour;
+namespace rtens\mockster3\behaviour;
 
 class ReturnValueBehaviour extends Behaviour {
 

@@ -1,5 +1,5 @@
 <?php
-namespace rtens\mockster;
+namespace rtens\mockster3;
 
 use watoki\collections\Map;
 use watoki\factory\Factory;
@@ -16,7 +16,7 @@ class Mockster {
     /** @var string */
     private $class;
 
-    /** @var \rtens\mockster\Stubs */
+    /** @var \rtens\mockster3\Stubs */
     private $stubs;
 
     /** @var \watoki\factory\Factory */

@@ -1,7 +1,7 @@
 <?php
-namespace rtens\mockster;
+namespace rtens\mockster3;
 
-use rtens\mockster\arguments\Argument;
+use rtens\mockster3\arguments\Argument;
 use watoki\factory\Factory;
 
 class Stubs {

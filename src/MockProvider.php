@@ -1,5 +1,5 @@
 <?php
-namespace rtens\mockster;
+namespace rtens\mockster3;
 
 use watoki\factory\Factory;
 use watoki\factory\Injector;

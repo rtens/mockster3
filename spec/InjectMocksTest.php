@@ -1,8 +1,8 @@
 <?php
-namespace spec\rtens\mockster;
+namespace spec\rtens\mockster3;
 
-use rtens\mockster\MockProvider;
-use rtens\mockster\Mockster;
+use rtens\mockster3\MockProvider;
+use rtens\mockster3\Mockster;
 use rtens\scrut\tests\statics\StaticTestSuite;
 use watoki\factory\Factory;
 

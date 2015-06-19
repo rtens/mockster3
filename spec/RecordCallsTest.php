@@ -1,9 +1,9 @@
 <?php
-namespace spec\rtens\mockster;
+namespace spec\rtens\mockster3;
 
-use rtens\mockster\arguments\Argument as Arg;
-use rtens\mockster\HistoryPrinter;
-use rtens\mockster\Mockster;
+use rtens\mockster3\arguments\Argument as Arg;
+use rtens\mockster3\HistoryPrinter;
+use rtens\mockster3\Mockster;
 use rtens\scrut\tests\statics\StaticTestSuite;
 
 class RecordCallsTest extends StaticTestSuite {

@@ -1,7 +1,7 @@
 <?php
-namespace spec\rtens\mockster;
+namespace spec\rtens\mockster3;
 
-use rtens\mockster\Mockster;
+use rtens\mockster3\Mockster;
 use rtens\scrut\tests\statics\StaticTestSuite;
 
 class IntroductionTest extends StaticTestSuite {

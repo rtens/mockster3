@@ -1,5 +1,5 @@
 <?php
-namespace rtens\mockster\arguments;
+namespace rtens\mockster3\arguments;
 
 class IntegerArgument extends Argument {
 

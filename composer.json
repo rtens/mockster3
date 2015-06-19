@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "rtens\\mockster\\": "src/"
+            "rtens\\mockster3\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "spec\\rtens\\mockster\\": "spec/"
+            "spec\\rtens\\mockster3\\": "spec/"
         }
     }
 }

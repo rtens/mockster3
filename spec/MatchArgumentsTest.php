@@ -1,13 +1,13 @@
 <?php
-namespace spec\rtens\mockster;
+namespace spec\rtens\mockster3;
 
-use rtens\mockster\arguments\Argument;
-use rtens\mockster\arguments\BooleanArgument;
-use rtens\mockster\arguments\ExactArgument;
-use rtens\mockster\arguments\IntegerArgument;
-use rtens\mockster\arguments\ObjectArgument;
-use rtens\mockster\arguments\RegularExpressionArgument;
-use rtens\mockster\arguments\StringArgument;
+use rtens\mockster3\arguments\Argument;
+use rtens\mockster3\arguments\BooleanArgument;
+use rtens\mockster3\arguments\ExactArgument;
+use rtens\mockster3\arguments\IntegerArgument;
+use rtens\mockster3\arguments\ObjectArgument;
+use rtens\mockster3\arguments\RegularExpressionArgument;
+use rtens\mockster3\arguments\StringArgument;
 use rtens\scrut\tests\statics\StaticTestSuite;
 
 class MatchArgumentsTest extends StaticTestSuite {
