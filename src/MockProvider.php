@@ -45,7 +45,7 @@ class MockProvider extends DefaultProvider {
     }
 
     private function makeMockClassName($classname, $callConstructor) {
-        $mockClassName = 'Mock_' . str_replace('\\', '_', $classname);
+        $mockClassName = 'Mock3_' . str_replace('\\', '_', $classname);
         if (!$callConstructor) {
             $mockClassName .= '_NoConstructor';
         }
